@@ -1,0 +1,14 @@
+{
+  "name": "aao-import-pilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Disposable repository for the AAO imported-delivery pilot (ADR-025). No dependencies.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test",
+    "verify": "node --test"
+  }
+}
